@@ -175,6 +175,16 @@
             }
         },
         {
+			"name": "String interpolation",
+			"scope": [
+				"source.elixir.embedded.source"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#A24949"
+			}
+		},
+        {
             "name": "Comment color",
             "scope": [
                 "comment",
